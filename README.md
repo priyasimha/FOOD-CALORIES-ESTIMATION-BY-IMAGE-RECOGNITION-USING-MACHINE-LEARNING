@@ -1,13 +1,4 @@
-# Food-Image-Recognition
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-- [Food-Image-Recognition](#food-image-recognition)
-  - [Table of Contents](#table-of-contents)
-    - [Overview](#overview)
-    - [Built With](#built-with)
-    - [Dataset](#dataset)
 ### Overview
 * Services like eating habit recorder and calorie/nutrition calculator have became extremely popular. 
 * They can make users aware of problems like obesity, cancer, diabetes, heart-disease, etc. that can be caused by unhealthy diets.
