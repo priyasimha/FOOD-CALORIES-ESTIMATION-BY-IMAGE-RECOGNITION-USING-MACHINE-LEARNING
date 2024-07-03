@@ -5,29 +5,9 @@
 
 - [Food-Image-Recognition](#food-image-recognition)
   - [Table of Contents](#table-of-contents)
-  - [About the Project](#about-the-project)
     - [Overview](#overview)
     - [Built With](#built-with)
     - [Dataset](#dataset)
-  - [Results](#results)
-    - [Demo](#demo)
-    - [Accuracy](#accuracy)
-    - [Loss](#loss)
-    - [Testing on random images.](#testing-on-random-images)
-    - [Visualization of different layers.](#visualization-of-different-layers)
-    - [Heat-Map & Class-Activation-Map](#heat-map--class-activation-map)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
-  - [References](#references)
-  - [Acknowledgements](#acknowledgements)
-
-## About the Project
-
-![Food](.images/food.jpg)
-
-<span>Photo by <a href="https://unsplash.com/@jaywennington?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jay Wennington</a> on <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
 ### Overview
 * Services like eating habit recorder and calorie/nutrition calculator have became extremely popular. 
 * They can make users aware of problems like obesity, cancer, diabetes, heart-disease, etc. that can be caused by unhealthy diets.
@@ -52,6 +32,3 @@ Food Images Source: [The Food-101 Data Set](https://data.vision.ee.ethz.ch/cvl/d
   * 250 test images/per class and 750 training images/per class are provided.
   * All the images were rescaled to have a maximum side length of 512 pixels. 
 
-Nutrition Information Source: [Food Data Central API](https://fdc.nal.usda.gov/api-guide.html#bkmk-3)
-
-  * U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, 2019. fdc.nal.usda.gov. 
